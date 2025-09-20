@@ -2,7 +2,7 @@
 
 # Hi, I'm Sebastián Suarez:
 🌱 I’m a **Systems Engineering student** passionate about software development.  
-💡 Strong foundation in **Backend with Java & Spring Boot**, applying **Clean Architecture** and **Hexagonal Architecture** for scalable and maintainable solutions.  
+💡 Strong foundation in **Backend with Java & Spring Boot**, applying **Clean Architecture**, **Clean Code** and **Hexagonal Architecture** for scalable and maintainable solutions.  
 🛢️ Experience with **SQL & NoSQL databases**: PostgreSQL, MySQL, MongoDB, Redis.  
 ⚡ Knowledge in **Python** and **C++**.  
 🎨 Frontend development with **Angular, React, Vite** + web technologies (**HTML, CSS, JavaScript, TypeScript**).  
