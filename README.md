@@ -1,8 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=27AE60&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;I'm+Sebastián+Suarez;Systems+Engineering+Student;Software+Developer+💻)](https://git.io/typing-svg)
 
 # Hi, I'm Sebastián Suarez:
-🌱 I’m a **Systems Engineering student** passionate about software development.  
-💡 Strong foundation in **Backend with Java & Spring Boot**, applying **Clean Architecture**, **Clean Code** and **Hexagonal Architecture** for scalable and maintainable solutions.  
+💻 I’m a **Systems Engineering student** passionate about software development.  
+💡 Strong foundation in **Backend with Java & Spring Boot**, applying **Clean Architecture**, **Clean Code** and **Hexagonal Architecture** for scalable and maintainable solutions.
+📨 I have also worked with messaging using **RabbitMQ**.
 🛢️ Experience with **SQL & NoSQL databases**: PostgreSQL, MySQL, MongoDB, Redis.  
 ⚡ Knowledge in **Python** and **C++**.  
 🎨 Frontend development with **Angular, React, Vite** + web technologies (**HTML, CSS, JavaScript, TypeScript**).  
